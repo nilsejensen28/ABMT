@@ -1,0 +1,7 @@
+target/
+output/
+scenarios/
+.project
+.vscode/
+.settings/
+.Rhistory
